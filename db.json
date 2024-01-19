@@ -1,8 +1,8 @@
 {
   "posts": [
-    { "id": 1, "title": "sen","birthday":"1997/1/1", "photo":"https://tse2.mm.bing.net/th?id=OIP.A39L_vWZtP-q5xL1-XCczQHaHa&pid=Api&P=0&h=180"},
-    { "id": 2, "title": "wang","birthday":"1997/1/2", "photo":"https://tse2.mm.bing.net/th?id=OIP.A39L_vWZtP-q5xL1-XCczQHaHa&pid=Api&P=0&h=180"},
-    { "id": 3, "title": "senwang","birthday":"1997/1/3","photo":"https://tse2.mm.bing.net/th?id=OIP.A39L_vWZtP-q5xL1-XCczQHaHa&pid=Api&P=0&h=180" }
+    { "id": 1, "title": "sen","birthday":"1997/1/1", "photo":"not in service"},
+    { "id": 2, "title": "wang","birthday":"1997/1/2", "photo":"not in service"},
+    { "id": 3, "title": "senwang","birthday":"1997/1/3","photo":"not in service" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
